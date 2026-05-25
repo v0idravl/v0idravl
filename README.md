@@ -11,7 +11,7 @@ Offensive security work grounded in enterprise environments. Active Directory at
 ```
 // profile
 role      : penetration tester · active directory · enterprise networks
-approach  : enumeration-first · real-world methodology · finding-documented
+approach  : enumeration-first · real-world methodology · findings-documented
 building  : binary exploitation · RE · malware dev · C offensive tooling
 ops       : Linux infrastructure · threat hunting · deception research
 languages : C · Python · Bash · x86/x64 asm
@@ -21,7 +21,6 @@ languages : C · Python · Bash · x86/x64 asm
 
 | | |
 |:---|:---|
-| [harrison.hodgkin.io](https://harrison.hodgkin.io) | personal site |
 | [lab-writeups](https://v0idravl.github.io/lab-writeups) | AD and enterprise lab writeups |
 | [hakiki](https://v0idravl.github.io/hakiki) | offensive security quick reference |
 
