@@ -23,6 +23,7 @@ languages : C · Python · Bash · x86/x64 asm
 |:---|:---|
 | [lab-writeups](https://v0idravl.github.io/lab-writeups) | AD and enterprise lab writeups |
 | [hakiki](https://v0idravl.github.io/hakiki) | offensive security quick reference |
+| [hackthebox](https://app.hackthebox.com/profile/v0idravl) | v0idravl — active labs |
 
 ---
 
