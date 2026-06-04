@@ -12,7 +12,7 @@ Offensive security work grounded in enterprise environments. Active Directory at
 // profile
 role      : penetration tester · active directory · enterprise networks
 approach  : enumeration-first · real-world methodology · findings-documented
-building  : binary exploitation · RE · malware dev · C offensive tooling
+building  : binary exploitation · RE · C offensive tooling
 ops       : Linux infrastructure · threat hunting · deception research
 languages : C · Python · Bash · x86/x64 asm
 ```
@@ -23,6 +23,8 @@ languages : C · Python · Bash · x86/x64 asm
 |:---|:---|
 | [lab-writeups](https://v0idravl.github.io/lab-writeups) | AD and enterprise lab writeups |
 | [hakiki](https://v0idravl.github.io/hakiki) | offensive security quick reference |
+| [p0rtix](https://github.com/v0idravl/p0rtix) | scope-aware recon and enumeration |
+| [traxerax-lite](https://github.com/v0idravl/traxerax-lite) | lightweight traffic/log analysis tooling |
 | [hackthebox](https://app.hackthebox.com/profile/v0idravl) | v0idravl — active labs |
 | [x / twitter](https://x.com/v0idravl) | @v0idravl |
 
