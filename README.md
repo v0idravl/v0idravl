@@ -9,18 +9,18 @@
 ╠══════════════════════════════════════════════════════════════════════════════╣
 
 ┌─[ whoami ]───────────────────────────────────────────────────────────────────┐
-│ I’m an offensive security practitioner focused on internal networks, Active  │
+│ Offensive security practitioner focused on internal networks, Active         │
 │ Directory, reverse engineering, binary exploitation, and Linux systems.      │
 │                                                                              │
 │ Right now I’m pushing deeper into C, x86-64, GDB, Ghidra, pwntools, and AD   │
-│ lab work.                                                                    │
+│ lab work. You can find me on pwn.college, HackTheBox, and OffSec Proving     │
+│ Grounds.                                                                     │
 │                                                                              │
 │ If you work on similar things, feel free to reach out.                       │
 └──────────────────────────────────────────────────────────────────────────────┘
 
-┌─[ links ]────────────────────────────────────────────────────────────────────┐
+┌─[ contact ]──────────────────────────────────────────────────────────────────┐
 │ discord   : v0idravl                                                         │
-│ htb       : https://app.hackthebox.com/profile/v0idravl                      │
 │ x         : @v0idravl                                                        │
 └──────────────────────────────────────────────────────────────────────────────┘
 
