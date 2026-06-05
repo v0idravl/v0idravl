@@ -12,11 +12,11 @@
 │ Offensive security practitioner focused on internal networks, Active         │
 │ Directory, reverse engineering, binary exploitation, and Linux systems.      │
 │                                                                              │
-│ Right now I’m pushing deeper into C, x86-64, GDB, Ghidra, pwntools, and AD   │
-│ lab work. You can find me on pwn.college, HackTheBox, and OffSec Proving     │
-│ Grounds.                                                                     │
+│ Focused on pushing deeper into C, x86-64, GDB, Ghidra, pwntools, and         │
+│ multi-host enterprise lab work. You can find me on pwn.college, HackTheBox,  │
+│ and OffSec Proving Grounds.                                                  │
 │                                                                              │
-│ If you work on similar things, feel free to reach out.                       │
+│ If you're working on similar things, feel free to reach out.                 │
 └──────────────────────────────────────────────────────────────────────────────┘
 
 ┌─[ contact ]──────────────────────────────────────────────────────────────────┐
