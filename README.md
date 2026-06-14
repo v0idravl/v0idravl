@@ -1,22 +1,28 @@
 ```text
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  ██╗   ██╗ ██████╗ ██╗██████╗ ██████╗  █████╗ ██╗   ██╗██╗                   ║
-║  ██║   ██║██╔═████╗██║██╔══██╗██╔══██╗██╔══██╗██║   ██║██║                   ║
-║  ██║   ██║██║██╔██║██║██║  ██║██████╔╝███████║██║   ██║██║                   ║
-║  ╚██╗ ██╔╝████╔╝██║██║██║  ██║██╔══██╗██╔══██║╚██╗ ██╔╝██║                   ║
-║   ╚████╔╝ ╚██████╔╝██║██████╔╝██║  ██║██║  ██║ ╚████╔╝ ███████╗              ║
-║    ╚═══╝   ╚═════╝ ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝              ║
+║  ██╗   ██╗ ██████╗ ██╗██████╗ ██████╗  █████╗ ██╗   ██╗██╗                 ║
+║  ██║   ██║██╔═████╗██║██╔══██╗██╔══██╗██╔══██╗██║   ██║██║                 ║
+║  ██║   ██║██║██╔██║██║██║  ██║██████╔╝███████║██║   ██║██║                 ║
+║  ╚██╗ ██╔╝████╔╝██║██║██║  ██║██╔══██╗██╔══██║╚██╗ ██╔╝██║                 ║
+║   ╚████╔╝ ╚██████╔╝██║██████╔╝██║  ██║██║  ██║ ╚████╔╝ ███████╗            ║
+║    ╚═══╝   ╚═════╝ ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝            ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 
 ┌─[ whoami ]───────────────────────────────────────────────────────────────────┐
-│ Offensive security practitioner focused on internal networks, Active         │
-│ Directory, reverse engineering, binary exploitation, and Linux systems.      │
+│ Linux and embedded systems security — firmware analysis, ELF binary          │
+│ exploitation, and ICS/OT protocol security. 10 years on Linux, industrial    │
+│ equipment and heavy machinery background. Building toward ICS/OT             │
+│ vulnerability research.                                                      │
 │                                                                              │
-│ Focused on pushing deeper into C, x86-64, GDB, Ghidra, pwntools, and         │
-│ multi-host enterprise lab work. You can find me on pwn.college, HackTheBox,  │
-│ and OffSec Proving Grounds.                                                  │
-│                                                                              │
-│ If you're working on similar things, feel free to reach out.                 │
+│ Active on pwn.college. Working through firmware RE on embedded hardware,     │
+│ Ghidra/radare2 for ELF analysis, and reading real ICS malware — PIPEDREAM,   │
+│ INDUSTROYER2, TRISIS. If you're working in the same space, reach out.        │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌─[ active ]───────────────────────────────────────────────────────────────────┐
+│ p0rtix          scope-aware recon/enumeration tooling (Python)               │
+│ lab-writeups    HTB, PG, THM — Linux, Windows, enterprise AD                │
+│ hakiki          personal methodology reference                               │
 └──────────────────────────────────────────────────────────────────────────────┘
 
 ┌─[ contact ]──────────────────────────────────────────────────────────────────┐
