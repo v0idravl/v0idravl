@@ -9,14 +9,12 @@
 ╠══════════════════════════════════════════════════════════════════════════════╣
 
 ┌─[ whoami ]───────────────────────────────────────────────────────────────────┐
-│ Linux and embedded systems security — firmware analysis, ELF binary          │
-│ exploitation, and ICS/OT protocol security. 10 years on Linux, industrial    │
-│ equipment and heavy machinery background. Building toward ICS/OT             │
-│ vulnerability research.                                                      │
+│ Linux and embedded systems security. Exploit development, ELF binary         │
+│ analysis, firmware RE. 10 years on Linux. Interested in adversarial          │
+│ tradecraft and building toward vulnerability research.                       │
 │                                                                              │
-│ Active on pwn.college. Working through firmware RE on embedded hardware,     │
-│ Ghidra/radare2 for ELF analysis, and reading real ICS malware — PIPEDREAM,   │
-│ INDUSTROYER2, TRISIS. If you're working in the same space, reach out.        │
+│ Active on pwn.college. Working through Ghidra/radare2, embedded hardware,   │
+│ and threat research in the critical infrastructure space.                    │
 └──────────────────────────────────────────────────────────────────────────────┘
 
 ┌─[ active ]───────────────────────────────────────────────────────────────────┐
