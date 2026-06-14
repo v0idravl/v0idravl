@@ -10,8 +10,8 @@
 
 ┌─[ whoami ]───────────────────────────────────────────────────────────────────┐
 │ Linux and embedded systems security. Exploit development, ELF binary         │
-│ analysis, firmware RE. 10 years on Linux. Interested in adversarial          │
-│ tradecraft and building toward vulnerability research.                       │
+│ analysis, firmware RE. Interested in adversarial tradecraft and building     │
+│ toward vulnerability research.                                               │
 │                                                                              │
 │ Active on pwn.college. Working through Ghidra/radare2, embedded hardware,   │
 │ and threat research in the critical infrastructure space.                    │
