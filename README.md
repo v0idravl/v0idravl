@@ -8,19 +8,20 @@
 ║    ╚═══╝   ╚═════╝ ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
-$ whoami
+───[ whoami ]───────────────────────────────────────────────────────────────//──
 
-Offensive security operator focused on AI red teaming and
-model evaluation, building multi-agent systems for offensive
-security work.
+Offensive security operator working at the intersection of AI
+and offense: red teaming AI models and applications, and
+agentic offensive security — building multi-agent systems that
+run offensive operations.
 
 Hands-on depth in internal networks, Active Directory, reverse
 engineering, binary exploitation, and Linux.
 
 pwn.college · HackTheBox · OffSec Proving Grounds.
-Open to remote AI red team / model-evaluation work.
+Open to remote AI red team and AI-offensive work.
 
-$ contact
+───[ contact ]──────────────────────────────────────────────────────────────//──
 
 email     v0id.ravl@mailbox.org
 web       v0idravl.github.io/whoami
