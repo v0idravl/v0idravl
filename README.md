@@ -8,25 +8,23 @@
 ║    ╚═══╝   ╚═════╝ ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
-┌─[ whoami ]───────────────────────────────────────────────────────────────────┐
-│ Linux and embedded systems security. Exploit development, ELF binary         │
-│ analysis, firmware RE. Interested in adversarial tradecraft and building     │
-│ toward vulnerability research.                                               │
-│                                                                              │
-│ Active on pwn.college. Working through Ghidra/radare2, embedded hardware,    │
-│ and threat research in the critical infrastructure space.                    │
-└──────────────────────────────────────────────────────────────────────────────┘
+$ whoami
 
-┌─[ active ]───────────────────────────────────────────────────────────────────┐
-│ p0rtix          scope-aware recon/enumeration tooling (Python)               │
-│ lab-writeups    HTB, PG, THM — Linux, Windows, enterprise AD                 │
-│ hakiki          personal methodology reference                               │
-└──────────────────────────────────────────────────────────────────────────────┘
+Offensive security operator focused on AI red teaming and
+model evaluation, building multi-agent systems for offensive
+security work.
 
-┌─[ contact ]──────────────────────────────────────────────────────────────────┐
-│ email     : v0id.ravl@mailbox.org                                            │
-│ discord   : v0idravl                                                         │
-│ x         : @v0idravl                                                        │
-└──────────────────────────────────────────────────────────────────────────────┘
+Hands-on depth in internal networks, Active Directory, reverse
+engineering, binary exploitation, and Linux.
+
+pwn.college · HackTheBox · OffSec Proving Grounds.
+Open to remote AI red team / model-evaluation work.
+
+$ contact
+
+email     v0id.ravl@mailbox.org
+web       v0idravl.github.io/whoami
+x         @v0idravl
+discord   v0idravl
 
 ```
