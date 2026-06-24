@@ -12,14 +12,14 @@
 
 Offensive security operator working at the intersection of AI
 and offense: AI red teaming and model evaluation, vulnerability
-research, and agentic offensive security — building multi-agent
-systems that run offensive operations.
+research, and agentic offensive security.
 
-Reverse engineering, binary exploitation, internal networks,
-and Active Directory — increasingly AI-accelerated.
+AI-accelerated: reverse engineering, binary exploitation, internal networks,
+and Active Directory.
 
 pwn.college · HackTheBox · OffSec Proving Grounds.
-Open to remote AI red team and model-evaluation work.
+
+Open to work.
 
 ───[ contact ]──────────────────────────────────────────────────────────────//──
 
