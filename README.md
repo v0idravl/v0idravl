@@ -12,8 +12,8 @@
 
 Offensive security operator working at the intersection of AI
 and offense: red teaming AI models and applications, and
-agentic offensive security — building multi-agent systems that
-run offensive operations.
+agentic offensive security. Building multi-agent systems that
+support offensive operations.
 
 Hands-on depth in internal networks, Active Directory, reverse
 engineering, binary exploitation, and Linux.
