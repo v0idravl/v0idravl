@@ -27,7 +27,7 @@ A public, three-repo stack that drives a full authorized engagement under
 operator control — recon, exploitation, and C2 directed by AI:
 
 dagar-red    att&ck-mapped adversary-emulation skills — decides the next call
-p0rtix       recon / enum over MCP — facts + the green->yellow->red noise floor
+p0rtix       mcp-first recon/enum — the recon->initial-access leg + noise floor
 sliver-mcp   sliver c2 mcp server — listeners, implants, sessions/beacons
 
 ───[ contact ]──────────────────────────────────────────────────────────────//──
