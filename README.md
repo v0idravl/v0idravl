@@ -14,8 +14,8 @@ Offensive security operator working at the intersection of AI
 and offense: AI red teaming and model evaluation, vulnerability
 research, and agentic offensive security.
 
-AI-accelerated: reverse engineering, binary exploitation, internal networks,
-and Active Directory.
+Depth in reverse engineering, binary exploitation, internal networks, and
+Active Directory — enough to direct and verify the work, not just run it.
 
 pwn.college · HackTheBox · OffSec Proving Grounds.
 
@@ -24,7 +24,7 @@ Open to work.
 ───[ the ai-offsec stack ]──────────────────────────────────────────────────//──
 
 A public, three-repo stack that drives a full authorized engagement under
-operator control — recon, exploitation, and C2 directed by AI:
+operator control — a judgment layer that decides, a tool surface that executes:
 
 dagar-red    att&ck-mapped adversary-emulation skills — decides the next call
 p0rtix       mcp-first recon/enum — the recon->initial-access leg + noise floor
