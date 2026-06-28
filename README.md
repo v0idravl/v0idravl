@@ -23,11 +23,12 @@ Open to work.
 
 ───[ the ai-offsec stack ]──────────────────────────────────────────────────//──
 
-A public, three-repo stack that drives a full authorized engagement under
-operator control — a judgment layer that decides, a tool surface that executes:
+A stack that drives a full authorized engagement under operator control — a
+judgment layer that decides, a tool surface that executes over MCP:
 
-dagar-red    att&ck-mapped adversary-emulation skills — decides the next call
+dagar-red    att&ck-mapped adversary-emulation skills — decides the next call (private)
 p0rtix       mcp-first recon/enum — the recon->initial-access leg + noise floor
+metasploit   exploitation over the metasploit mcp — exploits, sessions, post, pivot
 sliver-mcp   sliver c2 mcp server — listeners, implants, sessions/beacons
 
 ───[ contact ]──────────────────────────────────────────────────────────────//──
@@ -41,7 +42,7 @@ discord   v0idravl
 
 ### the ai-offsec stack
 
-[![dagar-red](https://img.shields.io/badge/dagar--red-ATT%26CK%20emulation%20skills-7C3AED?logo=github)](https://github.com/v0idravl/dagar-red)
+![dagar-red](https://img.shields.io/badge/dagar--red-private%20%C2%B7%20access%20on%20request-7C3AED?logo=github)
 [![p0rtix](https://img.shields.io/badge/p0rtix-recon%20%2F%20enum%20MCP-3DA639?logo=github)](https://github.com/v0idravl/p0rtix)
 [![sliver-mcp](https://img.shields.io/badge/sliver--mcp-Sliver%20C2%20MCP-000000?logo=github)](https://github.com/v0idravl/sliver-mcp)
 
