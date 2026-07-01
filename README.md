@@ -26,7 +26,7 @@ Open to work.
 A stack that drives a full authorized engagement under operator control — a
 judgment layer that decides, a tool surface that executes over MCP:
 
-dagar-red    att&ck-mapped adversary-emulation skills — decides the next call (private)
+dagar-red    adversary-emulation (private)
 p0rtix       mcp-first recon/enum — the recon->initial-access leg + noise floor
 p0cs         exploit staging — poc library with sliver download-cradle injection
 sliver-mcp   sliver c2 — listeners, implants, sessions/beacons, socks tunneling, post-ex
