@@ -47,7 +47,6 @@ discord   v0idravl
 [![p0rtix](https://img.shields.io/badge/p0rtix-recon%20%2F%20enum%20MCP-3DA639?logo=github)](https://github.com/v0idravl/p0rtix)
 [![p0cs](https://img.shields.io/badge/p0cs-exploit%20staging-E03C31?logo=github)](https://github.com/v0idravl/p0cs)
 [![sliver-mcp](https://img.shields.io/badge/sliver--mcp-Sliver%20C2%20MCP-000000?logo=github)](https://github.com/v0idravl/sliver-mcp)
-[![dagar-state](https://img.shields.io/badge/dagar--state-shared%20engagement%20store-4B5563?logo=github)](https://github.com/v0idravl/dagar-state)
 
 > **agentic offensive security** — the skills hold the methodology and make the
 > decisions, the MCP tools do the work, the operator owns every call.
