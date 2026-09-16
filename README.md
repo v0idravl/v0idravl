@@ -8,18 +8,18 @@
 ║    ╚═══╝   ╚═════╝ ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
-───[ whoami ]──────────────────────────────────────────────────────────────//──
+───[ whoami ]───────────────────────────────────────────────────────────────//──
 
 Offensive security practitioner and independent researcher: 70+
 documented engagements across Active Directory, web/binary exploitation,
-and privilege escalation; darknet and anonymity-network research; 
-custody-grade evidence discipline. Terminal-first tooling in Python, 
-bash, C, and eBPF - complimented by x86 assembly and low-level 
+and privilege escalation; darknet and anonymity-network research;
+custody-grade evidence discipline. Terminal-first tooling in Python,
+bash, C, and eBPF - complemented by x86 assembly and low-level
 forensic awareness.
 
 ~6 years of covert/overt security fieldwork — plainclothes, CCTV,
-armored — a year of rural 911 EMS - experience in austere mountain, desert,
-and urban environments. 
+armored — a year of rural 911 EMS — experience in austere mountain, desert,
+and urban environments.
 
 Low-resource, high-capability.
 
@@ -52,7 +52,7 @@ Low-resource, high-capability.
     clustering, relationship-graph construction; Python-driven
     timeline and link correlation across sources.
 [-] Terminal software — Python (stdlib-first), bash, some C.
-[-] Field readiness — austere-capable and unrestricted: short notice, minimal 
+[-] Field readiness — austere-capable and unrestricted: short notice, minimal
     footprint. Code 3, armored, off-highway (mud, snow, or sand) vehicle ops.
     Maritime and aviation welcome!
 
@@ -64,18 +64,18 @@ offensive tooling — the ai-offsec stack
   interactive TUI, headless CLI, or over MCP; every action logged
 - [sliver-mcp] — the Sliver C2
   operator surface as MCP tools an AI agent can drive; safety-gated
-- [dagar-red] - (private) agentic offensive security stack.
+- [dagar-red] — (private) agentic offensive security stack.
 
 field notes
 
 - [hakiki] — command-first offensive
   quick reference: full AD kill chains, web, privesc, exploit dev
-- [lab-writeups] — 70+ redacted engagements; every claim traceable to a 
+- [lab-writeups] — 70+ redacted engagements; every claim traceable to a
   command, a log, or a screenshot
 
 darknet research
 
-- [v0idravl.github.io] — unpublished
+- [v0idravl.github.io] — published
   DNM / anonymity-network analyses; signed, timestamped, two-source
   corroboration standard
 
@@ -97,7 +97,7 @@ host defense
 terminal tools
 
 - [shinbun] — the daily newspaper as
-  one dated 80-col file, pulled over ToR, read offline; hand-rolled
+  one dated 80-col file, pulled over Tor, read offline; hand-rolled
   SOCKS5 + HTTP, fail-closed mode
 - [sdwx] — weather, surf, tides,
   sun/moon, and space weather in one 80-col report; no API keys,
@@ -117,15 +117,16 @@ lab or authorized environments.
 
 ───[ ping ]─────────────────────────────────────────────────────────────────//──
 
-email     v0id.ravl@mailbox.org — pgp preferred 
+email     v0id.ravl@mailbox.org — pgp preferred
 pgp       36C1 E0A6 63E8 1484 ED32 562B 8117 C621 0E02 2019
-web       v0idravl.github.io/whoami (pubkey + monthly warrant canary)
+web       v0idravl.github.io/whoami (pubkey + canary)
 location  san diego, ca — 100% travel, unrestricted mobility
 ```
 
 [![whoami](https://img.shields.io/badge/whoami-v0idravl.github.io%2Fwhoami-3DA639)](https://v0idravl.github.io/whoami)
 [![lab-writeups](https://img.shields.io/badge/lab--writeups-70%2B%20engagements-222222)](https://v0idravl.github.io/lab-writeups)
-[![p0rtix](https://img.shields.io/badge/p0rtix-recon--222222)](https://github.com/v0idravl/p0rtix)
+[![p0rtix](https://img.shields.io/badge/p0rtix-recon-222222)](https://github.com/v0idravl/p0rtix)
 [![hakiki](https://img.shields.io/badge/hakiki-field%20reference-CC0000)](https://v0idravl.github.io/hakiki)
 [![chr0nix](https://img.shields.io/badge/chr0nix-investigative--doc%20suite-222222)](https://github.com/v0idravl/chr0nix)
 [![email](https://img.shields.io/badge/email-pgp%20preferred-3DA639)](mailto:v0id.ravl@mailbox.org)
+[![pgp](https://img.shields.io/badge/pgp-key%20%2B%20canary-3DA639)](https://v0idravl.github.io/whoami)
