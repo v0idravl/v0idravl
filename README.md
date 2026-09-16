@@ -123,12 +123,12 @@ web       v0idravl.github.io/whoami (pubkey + canary)
 location  san diego, ca — 100% travel, unrestricted mobility
 ```
 
-[![whoami](https://img.shields.io/badge/whoami-v0idravl.github.io%2Fwhoami-0A3161)](https://v0idravl.github.io/whoami)
-[![lab-writeups](https://img.shields.io/badge/lab--writeups-70%2B%20engagements-FFFFFF)](https://v0idravl.github.io/lab-writeups)
-[![p0rtix](https://img.shields.io/badge/p0rtix-recon-CC0000)](https://github.com/v0idravl/p0rtix)
-[![hakiki](https://img.shields.io/badge/hakiki-field%20reference-FFFFFF)](https://v0idravl.github.io/hakiki)
-[![chr0nix](https://img.shields.io/badge/chr0nix-investigative--doc%20suite-0A3161)](https://github.com/v0idravl/chr0nix)
+[![whoami](https://img.shields.io/badge/whoami-v0idravl.github.io%2Fwhoami-3DA639)](https://v0idravl.github.io/whoami)
+[![lab-writeups](https://img.shields.io/badge/lab--writeups-70%2B%20engagements-007EC6)](https://v0idravl.github.io/lab-writeups)
+[![p0rtix](https://img.shields.io/badge/p0rtix-recon-FE7D37)](https://github.com/v0idravl/p0rtix)
+[![hakiki](https://img.shields.io/badge/hakiki-field%20reference-CC0000)](https://v0idravl.github.io/hakiki)
+[![chr0nix](https://img.shields.io/badge/chr0nix-investigative--doc%20suite-8A2BE2)](https://github.com/v0idravl/chr0nix)
 
-[![email](https://img.shields.io/badge/email-pgp%20preferred-CC0000)](mailto:v0id.ravl@mailbox.org)
-[![pgp](https://img.shields.io/badge/pgp-pubkey.asc-FFFFFF)](https://v0idravl.github.io/whoami/pubkey.asc)
-[![canary](https://img.shields.io/badge/canary-monthly-0A3161)](https://v0idravl.github.io/whoami/canary.txt.asc)
+[![email](https://img.shields.io/badge/email-pgp%20preferred-00B4D8)](mailto:v0id.ravl@mailbox.org)
+[![pgp](https://img.shields.io/badge/pgp-pubkey.asc-009E9A)](https://v0idravl.github.io/whoami/pubkey.asc)
+[![canary](https://img.shields.io/badge/canary-monthly-FFC500)](https://v0idravl.github.io/whoami/canary.txt.asc)
