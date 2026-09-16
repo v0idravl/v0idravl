@@ -17,9 +17,10 @@ under a two-source corroboration standard; custody-grade evidence
 discipline. Terminal-first tooling in Python, bash, and eBPF.
 
 ~6 years of covert/overt security fieldwork — plainclothes, CCTV,
-armored — a year of rural 911 EMS, and 70+ offensive lab engagements.
+armored — a year of rural 911 EMS - experience in austere mountains and 
+deserts, as well as operating in high traffic to high crime environments - 
+topped off with extensive hands-on-keyboard engagements.
 
-Remote-first. 100% travel when it matters.
 Low-resource, high-capability.
 
 ───[ ps ]───────────────────────────────────────────────────────────────────//──
